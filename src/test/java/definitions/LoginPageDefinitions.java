@@ -16,6 +16,8 @@ public class LoginPageDefinitions {
 	
 	private static WebDriver driver;       
     public final static int TIMEOUT = 10;
+    
+    //definition steps - implementing feature steps
      
     @Before
     public void setUp() {
